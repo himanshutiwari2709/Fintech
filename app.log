@@ -1,0 +1,4 @@
+export OPENAI_API_KEY="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"
+export RATE_LIMIT_WINDOW=60
+export RATE_LIMIT_MAX_REQUESTS=30
+export FLASK_ENV="development"  # or "production"
